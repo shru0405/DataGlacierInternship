@@ -1,0 +1,46 @@
+Conclusion via Profit Margins:
+•	Yellow Cab is more profitable.
+•	The baseline of Yellow Cab is higher than the Pink Cab,
+•	The slope of increasing profit from 2016 to 2017 is noticeably higher in Yellow Cab than Pink Cab.
+
+Conclusion via Distance Travelled:
+•	The total distance travelled by Yellow Cab is higher than Pink Cab.
+•	Travelled distance in both companies increased from 2016 to 2017, but the value of Profit/Distance is decreased in both of them.
+•	The value of Profit/Distance in Yellow Cab is higher than Pink Cab.
+•	The value of Profit/Distance in both companies decreased from 2016 to 2018.
+•	The margin of the value Profit/Distance between two companies is decreased over the years.
+•	The margin of the total travelled distance between two companies is somehow constant over the years.
+
+Conclusion based on Time:
+•	The baseline of Yellow Cab is upper than Pink Cab.
+•	The slope of increasing profit from Wednesday to Friday mostly Thursday to Friday is noticeably higher in Yellow Cab than Pink Cab.
+•	The slope of decreasing profit from Friday to Saturday is higher in Yellow Cab than Pink Cab.
+•	Yellow Cab has decreased from Saturday to Sunday, although Pink Cab has an insignificant increase in the same period.
+
+Conclusion on Profit varying by cities:
+•	In most cities, Yellow Cabs earn more gains than Pink Cabs.
+•	NYC is most profitable for cab companies.
+•	Income of customers in Yellow Cab and Pink Cab are almost same per City although the profit is much different.
+
+Conclusion based on Customers:
+•	Yellow Cab has more loyal customers.
+•	People who get back to Yellow Cabs are more than who are loyal to Pink Cab.
+•	Customers are more likely to get a car from Yellow Cab for later than Pink Cab.
+•	Pink Cab is more attractive as a first service.
+•	The maximum number of trips that one customer has done for Yellow Cab is around 45 and for Pink Cab is around 18.
+
+Conclusion based on Gender:
+•	Popularity of Yellow cab is apparent.
+•	In few select cities like San Diego,Nashville,etc, Pink Cab is merely bit more popular than the Yellow Cab.
+•	Men are majority users by slim margin in both companies.
+•	Men seem to be more profitable for both the cab companies.
+•	Yellow Cab has more customers in both genders.
+
+OVERALL CONCLUSION:
+•	Yellow Cab company is more profitable in every aspect.
+•	Yellow Cabs experience more sharpening effects than Pink Cab, both in increasing and decreasing profit and other factors.
+•	Investing in Yellow Cab can be a better solution, since the data indicates that risk factors associated with Yellow Company is lesser than that of the Pink.
+•	A small fault can cause a huge decline in Yellow Cab's Profit than Pink Cab.
+
+A thorough read of results by exploratory analysis indicates that investment in Yellow Cab Company is profitable in every manner.
+
