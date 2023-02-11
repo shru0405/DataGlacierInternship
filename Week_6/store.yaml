@@ -1,0 +1,19 @@
+
+config_data = file_type: csv
+dataset_name: Books_rating
+file_name: Books_rating
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    -Id 
+    -Title 
+    -Price
+    -User_id
+    -profileName 
+    -review/helpfulness 
+    -review/score 
+    -review/time
+    -review/summary
+    -review/text
