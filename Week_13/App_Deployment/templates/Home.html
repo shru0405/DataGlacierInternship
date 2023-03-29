@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="/static/Style.css">
+	<title>Patient Persistency</title>
+</head>
+
+	<body>
+		<h1><div style="text-align:center"><font color='black'>Will Patient adhere to the treatment?</font></div></h1>
+		<hr>
+		</br>
+
+		<h2><div style="text-align:center">Enter the values </div></h2>
+
+		</br>
+
+		<div style="text-align:center" class='container'>
+			<div class='row'>
+				<div class='col-6'>
+					<form method="POST" action="/predict">
+						<div class='form-group'>
+								<label for="var_1"><p class="font-weight-bold">Comorbidity:Long Term Current Drug Therapy <br> (Press 0 for No or 1 for Yes)</p></label>
+								<input type='number' name="var_1">
+
+						</div>
+						<div class='form-group'>
+							<label for="var_2"><p class="font-weight-bold">Comorbidity:General Exam without complaint <br> (Press 0 for No or 1 for Yes)</p></label>
+							<input type='number' name="var_2">
+
+						</div>
+						<div class='form-group'>
+							<label for="var_3"><p class="font-weight-bold">Comorbidity:Screening For Malignant Neoplasms <br> (Press 0 for No or 1 for Yes)</p></label>
+							<input type='number' name="var_3">
+
+						</div>
+
+							<input class='btn btn-primary' type='submit' value='Submit'>
+
+					</form>
+				</div>
+			</div>
+		</div>
+
+	</body>
+</html>
